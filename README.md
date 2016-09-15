@@ -1,6 +1,6 @@
 ## Synopsis
 
-This project is a python web application to solve the divisibility problem available [here](http://www.spoj.com/problems/SMPDIV).
+This project is a python web application to solve the [divisibility problem](http://www.spoj.com/problems/SMPDIV).
 
 
 ## Dependencies
